@@ -1,7 +1,5 @@
 # U2-Net Evaluation on ECSSD Dataset
 
-This repository evaluates the U2-Net (and U2NetP) model for salient object detection (SOD) on the ECSSD dataset. 
-
 U2-Net is a deep learning model for salient object detection. This repository runs inference and evaluates the U2Net model on the ECSSD dataset, providing metrics like IoU, Dice score, and F1 score.
 
 ## Prerequisites
