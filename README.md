@@ -15,7 +15,7 @@ pip install -r requirements.txt
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-repository/U2Net-Salient-Object-Detection.git
+git clone https://github.com/total-black/U2Net-Salient-Object-Detection.git
 cd U2Net-Salient-Object-Detection
 ```
 
